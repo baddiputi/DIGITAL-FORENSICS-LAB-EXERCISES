@@ -46,7 +46,7 @@ To acquire RAM data and create a forensic disk image using **FTK Imager**.
 ### ✅ Result  
 Successfully captured RAM and created a forensic disk image.  
 
-🔗 [View Full Experiment](Experiment-1-FTK-imager.pdf)  
+🔗 [View Full Experiment](DIGITAL%20FORENSICS%20LAB%20EXERCISES/Experiment-1-FTK-Imager.pdf)  
 
 ---
 
@@ -74,7 +74,7 @@ To recover lost partitions and deleted files using **TestDisk**.
 ### ✅ Result  
 Recovered lost partitions and deleted files using **TestDisk**.  
 
-🔗 [View Full Experiment](Experiment-2-TestDisk.pdf)  
+🔗 [View Full Experiment](DIGITAL%20FORENSICS%20LAB%20EXERCISES/Experiment-2-TestDisk.pdf)  
 
 ---
 
@@ -104,7 +104,7 @@ To capture and analyze live network packets using **Wireshark**.
 ### ✅ Result  
 Successfully captured and analyzed packets using **Wireshark**.  
 
-🔗 [View Full Experiment](Experiment-3-Wireshark.pdf)  
+🔗 [View Full Experiment](DIGITAL%20FORENSICS%20LAB%20EXERCISES/Experiment-3-Wireshark.pdf)  
 
 ---
 
@@ -135,7 +135,7 @@ To analyze an email header and detect spoofing/phishing attempts.
 ### ✅ Result  
 Analyzed email headers and detected spoofing indicators.  
 
-🔗 [View Full Experiment](Experiment-4-Mail-Header-Analyzer.pdf)  
+🔗 [View Full Experiment](DIGITAL%20FORENSICS%20LAB%20EXERCISES/Experiment-4-Mail-Header-Analysis.pdf)  
 
 ---
 
@@ -166,7 +166,7 @@ To analyze disk images and recover forensic artifacts using **Autopsy**.
 ### ✅ Result  
 Analyzed disk image and generated forensic report with **Autopsy**.  
 
-🔗 [View Full Experiment](Experiment-5-Autopsy.pdf)  
+🔗 [View Full Experiment](DIGITAL%20FORENSICS%20LAB%20EXERCISES/Experiment-5-Autopsy.pdf) 
 
 ---
 
